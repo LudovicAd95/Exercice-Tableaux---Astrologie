@@ -29,7 +29,7 @@ const waterSigns = [scorpio, pisces];)
 // ✒️ Write your code here
 
 fireSigns.push ("♐");
-console.log (firSigns);
+console.log (fireSigns);
 
 
 console.log(
@@ -82,7 +82,7 @@ console.log(airSigns[0] !== "♓︎" ? "Good Answer ✅" : "Wrong Answer ❌");
 
 // ✒️ Write your code here
 
-waterSigns.unshift (♋);
+waterSigns.unshift ("♋");
 console.log (waterSigns);
 
 // the line below is for testing, don't touch it :)
